@@ -1,0 +1,1111 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 7 (9.11.0.2358333) 64-bit (glnxa64)
+                              August 16, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+error =
+
+   10.0085
+
+
+error =
+
+   43.8270
+
+
+error =
+
+   43.8272
+
+
+error =
+
+   43.8284
+
+
+error =
+
+   43.8249
+
+
+error =
+
+   43.8272
+
+
+error =
+
+   43.8501
+
+
+error =
+
+   43.8489
+
+
+error =
+
+   43.8279
+
+
+error =
+
+   43.8239
+
+
+error =
+
+   43.8270
+
+
+error =
+
+   43.8269
+
+
+error =
+
+   43.8270
+
+
+error =
+
+   43.8270
+
+                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0      13    4.382698e+01    0.000e+00    1.451e+06
+
+error =
+
+   28.5742
+
+
+error =
+
+   28.5844
+
+
+error =
+
+   28.5756
+
+
+error =
+
+   28.5726
+
+
+error =
+
+   28.5753
+
+
+error =
+
+   28.5989
+
+
+error =
+
+   28.5899
+
+
+error =
+
+   28.5751
+
+
+error =
+
+   28.5733
+
+
+error =
+
+   28.5742
+
+
+error =
+
+   28.5742
+
+
+error =
+
+   28.5742
+
+
+error =
+
+   28.5742
+
+    1      26    2.857422e+01    0.000e+00    1.400e+06    3.935e-01
+
+error =
+
+   17.8748
+
+
+error =
+
+   17.8941
+
+
+error =
+
+   17.8756
+
+
+error =
+
+   17.8739
+
+
+error =
+
+   17.8754
+
+
+error =
+
+   17.9013
+
+
+error =
+
+   17.8925
+
+
+error =
+
+   17.8777
+
+
+error =
+
+   17.8739
+
+
+error =
+
+   17.8748
+
+
+error =
+
+   17.8748
+
+
+error =
+
+   17.8748
+
+
+error =
+
+   17.8748
+
+    2      39    1.787478e+01    0.000e+00    1.457e+06    6.307e-04
+
+error =
+
+    2.3979
+
+
+error =
+
+    2.4109
+
+
+error =
+
+    2.3982
+
+
+error =
+
+    2.3976
+
+
+error =
+
+    2.3986
+
+
+error =
+
+    2.3987
+
+
+error =
+
+    2.4271
+
+
+error =
+
+    2.4024
+
+
+error =
+
+    2.4037
+
+
+error =
+
+    2.3979
+
+
+error =
+
+    2.3979
+
+
+error =
+
+    2.3979
+
+
+error =
+
+    2.3979
+
+    3      52    2.397873e+00    0.000e+00    1.831e+06    4.388e-03
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6199
+
+
+error =
+
+    0.6249
+
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6249
+
+
+error =
+
+    0.6303
+
+
+error =
+
+    0.6250
+
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6245
+
+
+error =
+
+    0.6245
+
+    4      65    6.245473e-01    0.000e+00    5.429e+05    1.249e-03
+
+error =
+
+    0.6086
+
+
+error =
+
+    0.6035
+
+
+error =
+
+    0.6088
+
+
+error =
+
+    0.6085
+
+
+error =
+
+    0.6086
+
+
+error =
+
+    0.6088
+
+
+error =
+
+    0.6102
+
+
+error =
+
+    0.6082
+
+
+error =
+
+    0.6080
+
+
+error =
+
+    0.6086
+
+
+error =
+
+    0.6086
+
+
+error =
+
+    0.6086
+
+
+error =
+
+    0.6086
+
+    5      78    6.085616e-01    0.000e+00    5.070e+05    3.420e-03
+
+error =
+
+    1.3428
+
+
+error =
+
+    0.7569
+
+
+error =
+
+    0.7574
+
+
+error =
+
+    0.7581
+
+
+error =
+
+    0.7568
+
+
+error =
+
+    0.7575
+
+
+error =
+
+    0.7572
+
+
+error =
+
+    0.7636
+
+
+error =
+
+    0.7573
+
+
+error =
+
+    0.7587
+
+
+error =
+
+    0.7569
+
+
+error =
+
+    0.7569
+
+
+error =
+
+    0.7569
+
+
+error =
+
+    0.7569
+
+    6      92    7.569161e-01    0.000e+00    1.894e+05    5.129e-03
+
+error =
+
+    1.5139
+
+
+error =
+
+    0.6093
+
+
+error =
+
+    0.6096
+
+
+error =
+
+    0.6100
+
+
+error =
+
+    0.6092
+
+
+error =
+
+    0.6091
+
+
+error =
+
+    0.6096
+
+
+error =
+
+    0.6129
+
+
+error =
+
+    0.6095
+
+
+error =
+
+    0.6102
+
+
+error =
+
+    0.6093
+
+
+error =
+
+    0.6093
+
+
+error =
+
+    0.6093
+
+
+error =
+
+    0.6093
+
+    7     106    6.093339e-01    0.000e+00    3.270e+05    2.496e-03
+
+error =
+
+    0.5970
+
+
+error =
+
+    0.5974
+
+
+error =
+
+    0.5978
+
+
+error =
+
+    0.5969
+
+
+error =
+
+    0.5972
+
+
+error =
+
+    0.5974
+
+
+error =
+
+    0.6041
+
+
+error =
+
+    0.5975
+
+
+error =
+
+    0.5982
+
+
+error =
+
+    0.5970
+
+
+error =
+
+    0.5970
+
+
+error =
+
+    0.5970
+
+
+error =
+
+    0.5970
+
+    8     119    5.970017e-01    0.000e+00    8.445e+04    1.540e-02
+
+error =
+
+    0.4893
+
+
+error =
+
+    0.4897
+
+
+error =
+
+    0.4899
+
+
+error =
+
+    0.4892
+
+
+error =
+
+    0.4892
+
+
+error =
+
+    0.4898
+
+
+error =
+
+    0.4934
+
+
+error =
+
+    0.4896
+
+
+error =
+
+    0.4901
+
+
+error =
+
+    0.4893
+
+
+error =
+
+    0.4893
+
+
+error =
+
+    0.4893
+
+
+error =
+
+    0.4893
+
+    9     132    4.892854e-01    0.000e+00    1.513e+05    1.926e-01
+
+error =
+
+    1.5461
+
+
+error =
+
+    0.5819
+
+
+error =
+
+    0.5179
+
+
+error =
+
+    0.5183
+
+
+error =
+
+    0.5186
+
+
+error =
+
+    0.5178
+
+
+error =
+
+    0.5180
+
+
+error =
+
+    0.5185
+
+
+error =
+
+    0.5226
+
+
+error =
+
+    0.5182
+
+
+error =
+
+    0.5188
+
+
+error =
+
+    0.5179
+
+
+error =
+
+    0.5179
+
+
+error =
+
+    0.5179
+
+
+error =
+
+    0.5179
+
+   10     147    5.178842e-01    0.000e+00    9.688e+04    1.348e-01
+
+error =
+
+    0.4657
+
+
+error =
+
+    0.4587
+
+
+error =
+
+    0.4592
+
+
+error =
+
+    0.4595
+
+
+error =
+
+    0.4587
+
+
+error =
+
+    0.4590
+
+
+error =
+
+    0.4596
+
+
+error =
+
+    0.4634
+
+
+error =
+
+    0.4591
+
+
+error =
+
+    0.4599
+
+
+error =
+
+    0.4587
+
+
+error =
+
+    0.4587
+
+
+error =
+
+    0.4587
+
+
+error =
+
+    0.4587
+
+   11     161    4.587115e-01    0.000e+00    2.421e+04    9.122e-02
+
+error =
+
+    0.3835
+
+
+error =
+
+    0.3250
+
+
+error =
+
+    0.3252
+
+
+error =
+
+    0.3255
+
+
+error =
+
+    0.3250
+
+
+error =
+
+    0.3251
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3269
+
+
+error =
+
+    0.3252
+
+
+error =
+
+    0.3259
+
+
+error =
+
+    0.3250
+
+
+error =
+
+    0.3250
+
+
+error =
+
+    0.3250
+
+
+error =
+
+    0.3250
+
+   12     175    3.250235e-01    0.000e+00    1.668e+05    7.162e-02
+
+error =
+
+    0.5875
+
+
+error =
+
+    0.3340
+
+
+error =
+
+    0.3139
+
+
+error =
+
+    0.3163
+
+
+error =
+
+    0.3163
+
+
+error =
+
+    0.3167
+
+
+error =
+
+    0.3163
+
+
+error =
+
+    0.3164
+
+
+error =
+
+    0.3166
+
+
+error =
+
+    0.3180
+
+
+error =
+
+    0.3164
+
+
+error =
+
+    0.3171
+
+
+error =
+
+    0.3163
+
+
+error =
+
+    0.3163
+
+
+error =
+
+    0.3163
+
+
+error =
+
+    0.3163
+
+   13     191    3.162963e-01    0.000e+00    1.611e+05    2.003e-02
+
+error =
+
+    0.9755
+
+
+error =
+
+    0.3724
+
+
+error =
+
+    0.3197
+
+
+error =
+
+    0.3137
+
+
+error =
+
+    0.3182
+
+
+error =
+
+    0.3137
+
+
+error =
+
+    0.3148
+
+
+error =
+
+    0.3148
+
+
+error =
+
+    0.3152
+
+
+error =
+
+    0.3148
+
+
+error =
+
+    0.3149
+
+
+error =
+
+    0.3151
+
+
+error =
+
+    0.3164
+
+
+error =
+
+    0.3150
+
+
+error =
+
+    0.3156
+
+
+error =
+
+    0.3148
+
+
+error =
+
+    0.3148
+
+
+error =
+
+    0.3148
+
+
+error =
+
+    0.3148
+
+   14     210    3.148156e-01    0.000e+00    3.305e-01    1.919e-02
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+
+error =
+
+    0.3148
+
+J=3.148156e-01   Err_inp=1.692258e+03
+
+ans =
+
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0001    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.8694    0.2438
+    1.2126    0.3077
+    0.3457    0.1132
+    0.2937    0.1002
+

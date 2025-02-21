@@ -1,0 +1,558 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 7 (9.11.0.2358333) 64-bit (glnxa64)
+                              August 16, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+error =
+
+   10.0085
+
+
+error =
+
+    1.4091
+
+
+error =
+
+    1.4094
+
+
+error =
+
+    1.4102
+
+
+error =
+
+    1.4090
+
+
+error =
+
+    1.4079
+
+
+error =
+
+    1.4110
+
+
+error =
+
+    1.4212
+
+
+error =
+
+    1.4097
+
+
+error =
+
+    1.4098
+
+
+error =
+
+    1.4091
+
+
+error =
+
+    1.4091
+
+
+error =
+
+    1.4091
+
+
+error =
+
+    1.4091
+
+                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0      13    1.409137e+00    0.000e+00    8.245e+04
+
+error =
+
+    1.7650
+
+
+error =
+
+    0.9872
+
+
+error =
+
+    0.9875
+
+
+error =
+
+    0.9883
+
+
+error =
+
+    0.9871
+
+
+error =
+
+    0.9869
+
+
+error =
+
+    0.9890
+
+
+error =
+
+    0.9972
+
+
+error =
+
+    0.9878
+
+
+error =
+
+    0.9881
+
+
+error =
+
+    0.9872
+
+
+error =
+
+    0.9872
+
+
+error =
+
+    0.9872
+
+
+error =
+
+    0.9872
+
+    1      27    9.871598e-01    0.000e+00    1.364e+05    3.718e-01
+
+error =
+
+    0.5036
+
+
+error =
+
+    0.5042
+
+
+error =
+
+    0.5043
+
+
+error =
+
+    0.5037
+
+
+error =
+
+    0.5039
+
+
+error =
+
+    0.5042
+
+
+error =
+
+    0.5057
+
+
+error =
+
+    0.5039
+
+
+error =
+
+    0.5052
+
+
+error =
+
+    0.5036
+
+
+error =
+
+    0.5036
+
+
+error =
+
+    0.5036
+
+
+error =
+
+    0.5036
+
+    2      40    5.036338e-01    0.000e+00    6.523e+05    3.169e-01
+
+error =
+
+    0.9156
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3251
+
+
+error =
+
+    0.3258
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3255
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3266
+
+
+error =
+
+    0.3255
+
+
+error =
+
+    0.3262
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3254
+
+
+error =
+
+    0.3254
+
+    3      54    3.253904e-01    0.000e+00    6.013e+05    6.875e-02
+
+error =
+
+    1.1267
+
+
+error =
+
+    0.3571
+
+
+error =
+
+    0.3574
+
+
+error =
+
+    0.3574
+
+
+error =
+
+    0.3571
+
+
+error =
+
+    0.3567
+
+
+error =
+
+    0.3572
+
+
+error =
+
+    0.3578
+
+
+error =
+
+    0.3572
+
+
+error =
+
+    0.3576
+
+
+error =
+
+    0.3571
+
+
+error =
+
+    0.3571
+
+
+error =
+
+    0.3571
+
+
+error =
+
+    0.3571
+
+    4      68    3.570889e-01    0.000e+00    3.959e+05    2.792e-02
+
+error =
+
+    0.8678
+
+
+error =
+
+    0.4763
+
+
+error =
+
+    0.4769
+
+
+error =
+
+    0.4772
+
+
+error =
+
+    0.4763
+
+
+error =
+
+    0.4766
+
+
+error =
+
+    0.4774
+
+
+error =
+
+    0.4798
+
+
+error =
+
+    0.4766
+
+
+error =
+
+    0.4773
+
+
+error =
+
+    0.4763
+
+
+error =
+
+    0.4763
+
+
+error =
+
+    0.4763
+
+
+error =
+
+    0.4763
+
+    5      82    4.763264e-01    0.000e+00    3.282e+04    7.442e-02
+
+error =
+
+    0.8320
+
+
+error =
+
+    0.6171
+
+
+error =
+
+    0.5364
+
+
+error =
+
+    0.5035
+
+
+error =
+
+    0.8263
+
+
+error =
+
+    0.5543
+
+
+error =
+
+    0.4844
+
+
+error =
+
+    0.4850
+
+
+error =
+
+    0.4853
+
+
+error =
+
+    0.4843
+
+
+error =
+
+    0.4847
+
+
+error =
+
+    0.4855
+
+
+error =
+
+    0.4881
+
+
+error =
+
+    0.4847
+
+
+error =
+
+    0.4855
+
+
+error =
+
+    0.4844
+
+
+error =
+
+    0.4844
+
+
+error =
+
+    0.4844
+
+
+error =
+
+    0.4844
+
+    6     101    4.843768e-01    0.000e+00    2.498e+00    1.176e-01
+
+Local minimum found that satisfies the constraints.
+
+Optimization completed because the objective function is non-decreasing in 
+feasible directions, to within the value of the optimality tolerance,
+and constraints are satisfied to within the value of the constraint tolerance.
+
+
+error =
+
+    0.4844
+
+J=4.843768e-01   Err_inp=1.341257e+03
+
+ans =
+
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0001    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.0000    0.0000
+    0.6873    0.2438
+    0.3201    0.3077
+    0.3855    0.1132
+    0.3025    0.1002
+

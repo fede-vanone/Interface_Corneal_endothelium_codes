@@ -1,0 +1,19 @@
+This folder contains the codes for the evaluation of the electro-osmosis effect, 
+with different values of water permeability of the cell membrane (Lp) and of 
+the tight junction (Ltj). 
+
+'plots_Lp.m' allows for running the model with different values of water permeability
+ of the cell membrane Lp.
+'plots_Ltj.m' allows for running the model with different values of water permeability
+ of the tight junction Ltj.    
+The two scripts above are designed to first simulate the model with the electro-osmosis 
+effect for all the specified values of the selected permeability, and then 
+with electro-osmosis switched off (Cm=sigma0=0). The results are stored in
+apposite matrices and used to display some plots. 
+
+Such matrices, computed with the codes in this folder are stored in the 
+subfolders matrices_Lp and matrices_Ltj. If you only need to reproduce the plots, 
+without changing the settings, just load the matrices in matrices_Lp (matrices_Ltj) 
+into the folder Membrane_permeability_plots and run 'plots_Lp.m' ('plots_Ltj.m') 
+starting from 
+ 
