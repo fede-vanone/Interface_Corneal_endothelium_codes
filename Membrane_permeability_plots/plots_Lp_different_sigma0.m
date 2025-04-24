@@ -1,4 +1,5 @@
 
+
 clear all 
 close all
 
@@ -15,7 +16,8 @@ global  F R T Ppump Pnkcc Pkira Pcftr Pkirb Pn2b Pn3b Pae Paea zx Ptj Atj P1tj P
 Lp_vec=linspace(2e-13,2e-11,20);
 Ltj_mult=10;
 
-sigma0=-0.0048; % wall charge
+% sigma0=-0.0048; % wall charge
+sigma0=-0.0243; 
 Cm=1e-2;
 
 %% EO present. Prepare matrices for the values to save:
@@ -48,6 +50,7 @@ EO_Cl3=zeros(length(Lp_vec),1);
 
 %% compute the solution for all the selected Lp values
 %% SKIP
+
 for j=1:length(Lp_vec)
         Lp=Lp_vec(j);
         Ltj=Lp*Ltj_mult;

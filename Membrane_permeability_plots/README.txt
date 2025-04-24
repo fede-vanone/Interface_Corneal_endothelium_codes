@@ -1,22 +1,30 @@
 This folder contains the codes for the evaluation of the electro-osmosis effect, 
 with different values of water permeability of the cell membrane (Lp) and of 
 the tight junction (Ltj). 
+There are two additional scripts to assess the influence of the value of the 
+parameter sigma0. 
 
 'plots_Lp.m' allows for running the model with different values of water permeability
  of the cell membrane Lp, specified in the vector Lp_vec.
 'plots_Ltj.m' allows for running the model with different values of water permeability
  of the tight junction Ltj (Ltj/Lp specified in the vector Ltj_mult_vec).    
-The two scripts above are designed to first simulate the model with the electro-osmosis 
+'plots_Lp_different_sigma0.m' is the same as 'plots_Lp.m', but the value of 
+sigma_0 has changed to match a zeta potential of -50 mV.
+  
+The scripts above are designed to first simulate the model with the electro-osmosis 
 effect for all the specified values of the selected permeability, and then 
 with electro-osmosis switched off (Cm=sigma0=0). The results are stored in
 apposite matrices and used to display some plots. 
 
-Such matrices, computed with the codes as they are in this folder, are stored in the 
-subfolders matrices_Lp and matrices_Ltj. If you only need to reproduce the plots, 
+'plots_sigma0.m' runs the model with different values of sigma0, specified in the 
+vector sigma0_vec, matching values of the zeta potential from -50 mV to 0 mV.
+Then, it runs the model with only LO (Cm=sigma0=0).
+
+The matrices, computed with the codes as they are in this folder, are stored in the 
+subfolders matrices_Lp, matrices_Ltj, matrices_Lp_defferent_sigma0. If you only need to reproduce the plots, 
 without changing the settings, just load the matrices in matrices_Lp (matrices_Ltj) 
 into the folder Membrane_permeability_plots and run 'plots_Lp.m' ('plots_Ltj.m') 
-starting from the line indicated in the file "run from here for plots if you
-already have the matrices" (avoiding to compute them again). 
+skipping the sections denoted with %% SKIP (avoiding to compute the matrices again). 
 
 'main_coupling.m' runs the model. It produces the solution for the coupled model
 of ion and water transport in the cell and in the cleft. It uses an iterative 
@@ -32,4 +40,5 @@ ODEs (in 'cleft_odes_coupling.m') and for the boundary conditions (in
 'chebdif.m' and 'clenshaw_curtis_p.m' are used to approzimate integrals.
 
 The parameters are set in 'pars5.m', but Lp, Ltj, sigma_0 and Cm are set in
-'plots_Lp.m' to allow for them to change. 
+'plots_Lp.m', 'plots_Ltj', 'plots_Lp_different_sigma0.m', 'plots_sigma0.m'
+to allow for them to change. 

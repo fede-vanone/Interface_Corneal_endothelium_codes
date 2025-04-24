@@ -1,5 +1,4 @@
 
-% EO
 clear all 
 close all
 
@@ -18,7 +17,8 @@ Ltj_mult_vec=10.^linspace(0,3,20);
 sigma0=-0.0048; % wall charge
 Cm=1e-2;
 
-%%
+%% SKIP
+
 EO_wf_hexagon=zeros(length(Ltj_mult_vec),1);
 EO_wf_matrix=zeros(length(Ltj_mult_vec),1);
 
@@ -46,7 +46,8 @@ EO_Cl3=zeros(length(Ltj_mult_vec),1);
 
 
 
-%%
+%% SKIP 
+
 for j=1:length(Ltj_mult_vec)
     % clear Lp
         Ltj_mult=Ltj_mult_vec(j);
@@ -92,7 +93,7 @@ save('EO_Cl1.mat','EO_Cl1')
 save('EO_Cl2.mat','EO_Cl2')
 save('EO_Cl3.mat','EO_Cl3')
 
-%%
+%% SKIP
 
 % noEO
 clear all
