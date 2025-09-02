@@ -57,7 +57,7 @@ J1tj=P1tj*C*(yb7-va)*(yb3-ca1*exp(va-yb7))/(1-exp(va-yb7));
 J2tj=-P2tj*C*(yb7-va)*(yb5-ca2*exp(yb7-va))/(1-exp(yb7-va));
 J3tj=-P3tj*C*(yb7-va)*(yb1+yb3-yb5-ca3*exp(yb7-va))/(1-exp(yb7-va));
 
-%% boundary conditions FIX!! uslip
+%% boundary conditions 
 
 res=[ya1-cb0;...
     ya3-cb1;... % check the fluxes across the tight junction
